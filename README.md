@@ -1,2 +1,4 @@
-# intro-to-comfyui
-A course introducing ComfyUI to a technically intermediate audience.
+# Introduction to ComfyUI
+This course introduces learners to AI generative images and ComfyUI. 
+
+See the [syllabus](./syllabus.md).
